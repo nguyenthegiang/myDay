@@ -15,6 +15,9 @@
 
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}" defer></script>
+
+        <!-- Mine: Favicon -->
+        <link rel="icon" type="image/png" href="{{ asset('images/ShortLogo.png') }}"/>
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
